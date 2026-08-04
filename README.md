@@ -66,10 +66,7 @@
 <img align="left" alt="Dart" title="Dart" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 
 <!-- Microsoft Office -->
-<img align="left" alt="Office" title="Office" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoft/microsoft-original.svg" />
-
-<!-- Spring (o ícone escuro/apagado) -->
-<img align="left" alt="Spring" title="Spring" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="Office" title="Office" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 
 <!-- React -->
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -95,20 +92,31 @@
 <br/>
 <br/>
 
-###⚙️ Hard Skills
-- Systems Development
-- Hardware Engineering
-- Data Structures
-- Project Management
-- Documentation and Diagramming
-- English level B2
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
 
-###💡Soft Skills
-- Leadership and Management:
-- Multidisciplinary Communication:
-- Teaching and Mentoring
-- Negotiation and Translation of Requirements
-- Adaptability
+### ⚙️ Hard Skills
+* Systems Development
+* Hardware Engineering
+* Data Structures
+* Project Management
+* Documentation and Diagramming
+* English level B2
+
+    </td>
+    <td width="80%" valign="top">
+
+### 💡 Soft Skills
+* Leadership and Management
+* Multidisciplinary Communication
+* Teaching and Mentoring
+* Negotiation and Translation of Requirements
+* Adaptability
+
+    </td>
+  </tr>
+</table>
 
 
 ### 📊 Estatísticas
