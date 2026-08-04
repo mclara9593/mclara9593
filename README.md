@@ -6,7 +6,7 @@
  **`Sales Director at Ecomp Jr`**
 **`intern at Vidroca.`**
 
- 👨‍🎓 I am a Computer Engineering student at UEFS, where I was a Data Structures monitor for 2 years and a tutor for the mobile development course with Flutter and Django.
+ Computer Engineering student at UEFS, where I was a Data Structures monitor for 2 years and a tutor for the mobile development course with Flutter and Django.
  📖 Currently, I study process automation with Python.
  
 
@@ -92,9 +92,15 @@
 <br/>
 <br/>
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
+
+### 📊 Statistics
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mclara9593&theme=dark)
+
+### 📊 Social
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tofu_wu)
+[![Email](https://img.shields.io/badge/Email-FF6C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mclara9593@gmailcom)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5575992869593)
 
 ### ⚙️ Hard Skills
 * Systems Development
@@ -114,27 +120,3 @@
 * Negotiation and Translation of Requirements
 * Adaptability
 
-    </td>
-  </tr>
-</table>
-
-
-### 📊 Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
