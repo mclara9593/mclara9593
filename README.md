@@ -10,7 +10,7 @@
  📖 Currently, I study process automation with Python.
  
 
-### 🤖 Languagens and technologys
+### 🤖 Languagens and technologies
 
 <img 
     align="left" 
@@ -119,7 +119,7 @@
 </table>
 
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
