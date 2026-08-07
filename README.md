@@ -1,9 +1,8 @@
 
 # 👩🏻‍💻 Clara Nunes
 
-😄 Pronouns: He/She/They
 
- **`Sales Director at Ecomp Jr`**
+ **`Sales Director at Ecomp Jr`** |
 **`intern at Vidroca.`**
 
  Computer Engineering student at UEFS, where I was a Data Structures monitor for 2 years and a tutor for the mobile development course with Flutter and Django.
