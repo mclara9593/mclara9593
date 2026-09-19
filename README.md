@@ -3,7 +3,6 @@
 
 
  **`Sales Director at Ecomp Jr`** |
-**`intern at Vidroca.`**
 
  Computer Engineering student at UEFS, where I was a Data Structures monitor for 2 years and a tutor for the mobile development course with Flutter and Django.
  📖 Currently, I study process automation with Python.
@@ -82,8 +81,6 @@
 <!-- Java -->
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
-<!-- JavaScript -->
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <!-- Linux -->
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
