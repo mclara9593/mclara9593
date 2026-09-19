@@ -21,6 +21,8 @@
 
 ### 🤖 Languagens and technologies
 
+
+<p align="center">
 <img 
     align="left" 
     alt="HTML"
@@ -98,12 +100,11 @@
 
 <br/>
 <br/>
-
+</p>
 
 ### 📊 Statistics
-<p align="center">
+
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mclara9593&theme=dark)
- <\p>
 
 ### ⚙️ Hard Skills
 * Systems Development
