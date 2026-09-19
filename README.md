@@ -6,7 +6,19 @@
 
  Computer Engineering student at UEFS, where I was a Data Structures monitor for 2 years and a tutor for the mobile development course with Flutter and Django.
  📖 Currently, I study process automation with Python.
- 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mclara9593&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mclara9593&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mclara9593&theme=github_dark" />
+</p>
+
+---
+
+
 
 ### 🤖 Languagens and technologies
 
