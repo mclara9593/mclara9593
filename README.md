@@ -4,8 +4,7 @@
 
  **`Sales Director at Ecomp Jr`** |
 
- Computer Engineering student at UEFS, where I was a Data Structures monitor for 2 years and a tutor for the mobile development course with Flutter and Django.
- 📖 Currently, I study process automation with Python.
+ Computer Engineering student at UEFS, where I was a Data Structures monitor for 2 years and a tutor for the mobile development course with Flutter and Django. Currently, I study process automation with Python.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mclara9593&theme=github_dark" />
@@ -102,14 +101,12 @@
 
 
 ### 📊 Statistics
-
+<p align="center">
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mclara9593&theme=dark)
+</p>
 
-### 📊 Social
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tofu_wu)
-[![Email](https://img.shields.io/badge/Email-FF6C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mclara9593@gmailcom)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5575992869593)
 
+<p align="center">
 ### ⚙️ Hard Skills
 * Systems Development
 * Hardware Engineering
@@ -128,3 +125,10 @@
 * Negotiation and Translation of Requirements
 * Adaptability
 
+### 📊 Social
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tofu_wu)
+[![Email](https://img.shields.io/badge/Email-FF6C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mclara9593@gmailcom)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5575992869593)
+
+
+</p>
